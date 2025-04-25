@@ -1,0 +1,14 @@
+C:\Users\sriva\source\repos\AlarmConsoleApp\obj\Debug\net8.0\AlarmConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sriva\source\repos\AlarmConsoleApp\obj\Debug\net8.0\AlarmConsoleApp.AssemblyInfoInputs.cache
+C:\Users\sriva\source\repos\AlarmConsoleApp\obj\Debug\net8.0\AlarmConsoleApp.AssemblyInfo.cs
+C:\Users\sriva\source\repos\AlarmConsoleApp\obj\Debug\net8.0\AlarmConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\sriva\source\repos\AlarmConsoleApp\bin\Debug\net8.0\AlarmConsoleApp.exe
+C:\Users\sriva\source\repos\AlarmConsoleApp\bin\Debug\net8.0\AlarmConsoleApp.deps.json
+C:\Users\sriva\source\repos\AlarmConsoleApp\bin\Debug\net8.0\AlarmConsoleApp.runtimeconfig.json
+C:\Users\sriva\source\repos\AlarmConsoleApp\bin\Debug\net8.0\AlarmConsoleApp.dll
+C:\Users\sriva\source\repos\AlarmConsoleApp\bin\Debug\net8.0\AlarmConsoleApp.pdb
+C:\Users\sriva\source\repos\AlarmConsoleApp\obj\Debug\net8.0\AlarmConsoleApp.dll
+C:\Users\sriva\source\repos\AlarmConsoleApp\obj\Debug\net8.0\refint\AlarmConsoleApp.dll
+C:\Users\sriva\source\repos\AlarmConsoleApp\obj\Debug\net8.0\AlarmConsoleApp.pdb
+C:\Users\sriva\source\repos\AlarmConsoleApp\obj\Debug\net8.0\AlarmConsoleApp.genruntimeconfig.cache
+C:\Users\sriva\source\repos\AlarmConsoleApp\obj\Debug\net8.0\ref\AlarmConsoleApp.dll

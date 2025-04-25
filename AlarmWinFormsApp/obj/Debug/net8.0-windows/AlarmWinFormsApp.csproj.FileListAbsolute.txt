@@ -1,0 +1,16 @@
+C:\Users\sriva\source\repos\AlarmWinFormsApp\obj\Debug\net8.0-windows\AlarmWinFormsApp.csproj.GenerateResource.cache
+C:\Users\sriva\source\repos\AlarmWinFormsApp\obj\Debug\net8.0-windows\AlarmWinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sriva\source\repos\AlarmWinFormsApp\obj\Debug\net8.0-windows\AlarmWinFormsApp.AssemblyInfoInputs.cache
+C:\Users\sriva\source\repos\AlarmWinFormsApp\obj\Debug\net8.0-windows\AlarmWinFormsApp.AssemblyInfo.cs
+C:\Users\sriva\source\repos\AlarmWinFormsApp\obj\Debug\net8.0-windows\AlarmWinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\sriva\source\repos\AlarmWinFormsApp\bin\Debug\net8.0-windows\AlarmWinFormsApp.exe
+C:\Users\sriva\source\repos\AlarmWinFormsApp\bin\Debug\net8.0-windows\AlarmWinFormsApp.deps.json
+C:\Users\sriva\source\repos\AlarmWinFormsApp\bin\Debug\net8.0-windows\AlarmWinFormsApp.runtimeconfig.json
+C:\Users\sriva\source\repos\AlarmWinFormsApp\bin\Debug\net8.0-windows\AlarmWinFormsApp.dll
+C:\Users\sriva\source\repos\AlarmWinFormsApp\bin\Debug\net8.0-windows\AlarmWinFormsApp.pdb
+C:\Users\sriva\source\repos\AlarmWinFormsApp\obj\Debug\net8.0-windows\AlarmWinFormsApp.AlarmEventArgs.resources
+C:\Users\sriva\source\repos\AlarmWinFormsApp\obj\Debug\net8.0-windows\AlarmWinFormsApp.dll
+C:\Users\sriva\source\repos\AlarmWinFormsApp\obj\Debug\net8.0-windows\refint\AlarmWinFormsApp.dll
+C:\Users\sriva\source\repos\AlarmWinFormsApp\obj\Debug\net8.0-windows\AlarmWinFormsApp.pdb
+C:\Users\sriva\source\repos\AlarmWinFormsApp\obj\Debug\net8.0-windows\AlarmWinFormsApp.genruntimeconfig.cache
+C:\Users\sriva\source\repos\AlarmWinFormsApp\obj\Debug\net8.0-windows\ref\AlarmWinFormsApp.dll
