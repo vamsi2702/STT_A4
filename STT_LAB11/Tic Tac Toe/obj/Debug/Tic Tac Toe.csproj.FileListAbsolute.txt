@@ -1,0 +1,15 @@
+C:\Users\sriva\Downloads\LAB11\Projects\Tic Tac Toe\bin\Debug\Tic Tac Toe.exe
+C:\Users\sriva\Downloads\LAB11\Projects\Tic Tac Toe\bin\Debug\Tic Tac Toe.deps.json
+C:\Users\sriva\Downloads\LAB11\Projects\Tic Tac Toe\bin\Debug\Tic Tac Toe.runtimeconfig.json
+C:\Users\sriva\Downloads\LAB11\Projects\Tic Tac Toe\bin\Debug\Tic Tac Toe.dll
+C:\Users\sriva\Downloads\LAB11\Projects\Tic Tac Toe\bin\Debug\Tic Tac Toe.pdb
+C:\Users\sriva\Downloads\LAB11\Projects\Tic Tac Toe\obj\Debug\Tic Tac Toe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sriva\Downloads\LAB11\Projects\Tic Tac Toe\obj\Debug\Tic Tac Toe.AssemblyInfoInputs.cache
+C:\Users\sriva\Downloads\LAB11\Projects\Tic Tac Toe\obj\Debug\Tic Tac Toe.AssemblyInfo.cs
+C:\Users\sriva\Downloads\LAB11\Projects\Tic Tac Toe\obj\Debug\Tic Tac Toe.csproj.CoreCompileInputs.cache
+C:\Users\sriva\Downloads\LAB11\Projects\Tic Tac Toe\obj\Debug\Tic Tac Toe.sourcelink.json
+C:\Users\sriva\Downloads\LAB11\Projects\Tic Tac Toe\obj\Debug\Tic Tac Toe.dll
+C:\Users\sriva\Downloads\LAB11\Projects\Tic Tac Toe\obj\Debug\refint\Tic Tac Toe.dll
+C:\Users\sriva\Downloads\LAB11\Projects\Tic Tac Toe\obj\Debug\Tic Tac Toe.pdb
+C:\Users\sriva\Downloads\LAB11\Projects\Tic Tac Toe\obj\Debug\Tic Tac Toe.genruntimeconfig.cache
+C:\Users\sriva\Downloads\LAB11\Projects\Tic Tac Toe\obj\Debug\ref\Tic Tac Toe.dll

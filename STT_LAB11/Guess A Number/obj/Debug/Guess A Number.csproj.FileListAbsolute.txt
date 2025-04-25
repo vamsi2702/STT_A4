@@ -1,0 +1,15 @@
+C:\Users\sriva\Downloads\LAB11\Projects\Guess A Number\bin\Debug\Guess A Number.exe
+C:\Users\sriva\Downloads\LAB11\Projects\Guess A Number\bin\Debug\Guess A Number.deps.json
+C:\Users\sriva\Downloads\LAB11\Projects\Guess A Number\bin\Debug\Guess A Number.runtimeconfig.json
+C:\Users\sriva\Downloads\LAB11\Projects\Guess A Number\bin\Debug\Guess A Number.dll
+C:\Users\sriva\Downloads\LAB11\Projects\Guess A Number\bin\Debug\Guess A Number.pdb
+C:\Users\sriva\Downloads\LAB11\Projects\Guess A Number\obj\Debug\Guess A Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sriva\Downloads\LAB11\Projects\Guess A Number\obj\Debug\Guess A Number.AssemblyInfoInputs.cache
+C:\Users\sriva\Downloads\LAB11\Projects\Guess A Number\obj\Debug\Guess A Number.AssemblyInfo.cs
+C:\Users\sriva\Downloads\LAB11\Projects\Guess A Number\obj\Debug\Guess A Number.csproj.CoreCompileInputs.cache
+C:\Users\sriva\Downloads\LAB11\Projects\Guess A Number\obj\Debug\Guess A Number.sourcelink.json
+C:\Users\sriva\Downloads\LAB11\Projects\Guess A Number\obj\Debug\Guess A Number.dll
+C:\Users\sriva\Downloads\LAB11\Projects\Guess A Number\obj\Debug\refint\Guess A Number.dll
+C:\Users\sriva\Downloads\LAB11\Projects\Guess A Number\obj\Debug\Guess A Number.pdb
+C:\Users\sriva\Downloads\LAB11\Projects\Guess A Number\obj\Debug\Guess A Number.genruntimeconfig.cache
+C:\Users\sriva\Downloads\LAB11\Projects\Guess A Number\obj\Debug\ref\Guess A Number.dll

@@ -1,0 +1,15 @@
+C:\Users\sriva\Downloads\LAB11\Projects\Tanks\bin\Debug\Tanks.exe
+C:\Users\sriva\Downloads\LAB11\Projects\Tanks\bin\Debug\Tanks.deps.json
+C:\Users\sriva\Downloads\LAB11\Projects\Tanks\bin\Debug\Tanks.runtimeconfig.json
+C:\Users\sriva\Downloads\LAB11\Projects\Tanks\bin\Debug\Tanks.dll
+C:\Users\sriva\Downloads\LAB11\Projects\Tanks\bin\Debug\Tanks.pdb
+C:\Users\sriva\Downloads\LAB11\Projects\Tanks\obj\Debug\Tanks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sriva\Downloads\LAB11\Projects\Tanks\obj\Debug\Tanks.AssemblyInfoInputs.cache
+C:\Users\sriva\Downloads\LAB11\Projects\Tanks\obj\Debug\Tanks.AssemblyInfo.cs
+C:\Users\sriva\Downloads\LAB11\Projects\Tanks\obj\Debug\Tanks.csproj.CoreCompileInputs.cache
+C:\Users\sriva\Downloads\LAB11\Projects\Tanks\obj\Debug\Tanks.sourcelink.json
+C:\Users\sriva\Downloads\LAB11\Projects\Tanks\obj\Debug\Tanks.dll
+C:\Users\sriva\Downloads\LAB11\Projects\Tanks\obj\Debug\refint\Tanks.dll
+C:\Users\sriva\Downloads\LAB11\Projects\Tanks\obj\Debug\Tanks.pdb
+C:\Users\sriva\Downloads\LAB11\Projects\Tanks\obj\Debug\Tanks.genruntimeconfig.cache
+C:\Users\sriva\Downloads\LAB11\Projects\Tanks\obj\Debug\ref\Tanks.dll
